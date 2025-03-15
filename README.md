@@ -87,3 +87,8 @@ ShoppyGlobe is a basic e-commerce application developed using React. It showcase
 ## npm i react-router-dom
 
 ## npm install react-redux
+<<<<<<< HEAD
+=======
+
+# Github Link : https://github.com/ankit536/ShoppyGlobe-ECart
+>>>>>>> fd73eb8 (Initial commit - Added project files)
